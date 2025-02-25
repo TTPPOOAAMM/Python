@@ -21,7 +21,7 @@ class Menu():
             elif choice == '4':
                 User.sort_and_filter_tracks()
             elif choice == '5':
-                User.update_profile(user)
+                Authenticate.update_profile(user)
             elif choice == '6':
                 print("Выход из системы...")
                 break

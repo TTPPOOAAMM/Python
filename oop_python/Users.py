@@ -24,10 +24,11 @@ class Authenticate():
                 return user
         print("Неверный логин или пароль.")
         return None
-
-
-
-
+    
+    def update_profile(user):
+        new_password = input("Введите новый пароль: ")
+        user['password'] = new_password
+        print("Пароль успешно обновлен.")
 
 class User():
     tracks = [
