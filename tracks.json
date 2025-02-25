@@ -1,0 +1,26 @@
+[
+	{
+		"title": "100 Barz",
+		"artist": "Слава КПСС",
+		"genre": "Рэп",
+		"rating": 9.8
+	},
+	{
+		"title": "Киндер Буэно",
+		"artist": "Валентин Дядька",
+		"genre": "Рэп",
+		"rating": 9.9
+	},
+	{
+		"title": "Blinding Lights",
+		"artist": "The Weeknd",
+		"genre": "Поп",
+		"rating": 9.5
+	},
+	{
+		"title": "Judas",
+		"artist": "Lady Gaga",
+		"genre": "Поп",
+		"rating": 9.2
+	}
+]
